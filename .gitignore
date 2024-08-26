@@ -1,5 +1,5 @@
 #Custom files to ignore
-.DS_Dtore
+.DS_Store
 config.py
 
 # Byte-compiled / optimized / DLL files
